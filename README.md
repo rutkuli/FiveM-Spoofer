@@ -1,1 +1,3 @@
-# FiveM-Spoofer
+# FiveM-Spoofer 
+// This will help you with unbanning yourself from FiveM 
+Also thanks to @ImFrosher...
