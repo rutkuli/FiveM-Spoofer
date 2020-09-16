@@ -3,7 +3,7 @@
 
 
 ### Updates
-*16.9.2020 Added HardwareID spoofer.*
+*16.9.2020 Added HardwareID spoofing.*
 
 ### Credits
 
