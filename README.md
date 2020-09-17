@@ -7,4 +7,5 @@
 
 ### Credits
 
-thanks to [https://github.com/ImFrosher]...
+[https://github.com/ImFrosher]
+[https://github.com/rutkuli]
